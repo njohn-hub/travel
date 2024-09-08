@@ -1,2 +1,2 @@
 # travel
-Tour travel website using htnl/css and php
+Tour travel website using html/css and php
